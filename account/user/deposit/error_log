@@ -1,0 +1,14 @@
+[24-Jun-2023 16:24:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proinhar/public_html/account/user/deposit/deposit.php on line 11
+[24-Jun-2023 20:53:56 UTC] PHP Warning:  Undefined variable $host in /home/proinhar/public_html/account/user/deposit/history.php on line 54
+[24-Jun-2023 20:53:56 UTC] PHP Warning:  Undefined variable $password in /home/proinhar/public_html/account/user/deposit/history.php on line 54
+[24-Jun-2023 20:53:56 UTC] PHP Warning:  Undefined variable $database in /home/proinhar/public_html/account/user/deposit/history.php on line 54
+[24-Jun-2023 20:53:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proinhar_root'@'localhost' (using password: NO) in /home/proinhar/public_html/account/user/deposit/history.php on line 54
+[24-Jun-2023 21:17:34 UTC] PHP Warning:  Undefined variable $24 Jun, 2023 05:17 PM in /home/proinhar/public_html/account/user/deposit/history.php on line 360
+[25-Jun-2023 09:14:26 UTC] PHP Warning:  Undefined variable $balanceInAccount in /home/proinhar/public_html/account/user/deposit/deposit.php on line 278
+[25-Jun-2023 09:15:41 UTC] PHP Warning:  Undefined variable $balanceInAccount in /home/proinhar/public_html/account/user/deposit/deposit.php on line 282
+[25-Jun-2023 09:17:23 UTC] PHP Warning:  Undefined variable $balanceInAccount in /home/proinhar/public_html/account/user/deposit/deposit.php on line 283
+[25-Jun-2023 10:11:40 UTC] PHP Warning:  Undefined array key "pending_deposit_amount" in /home/proinhar/public_html/account/user/deposit/deposit.php on line 50
+[25-Jun-2023 10:11:40 UTC] PHP Warning:  Undefined array key "gateway_title" in /home/proinhar/public_html/account/user/deposit/deposit.php on line 51
+[29-Jun-2023 23:57:05 UTC] PHP Warning:  Undefined array key "money" in /home/proinhar/public_html/account/user/deposit/deposit.php on line 284
+[04-Aug-2023 12:08:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/afflmdav/public_html/account/user/deposit/deposit.php on line 11
+[04-Aug-2023 12:10:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/afflmdav/public_html/account/user/deposit/history.php on line 47

@@ -1,0 +1,41 @@
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+  backdrop-filter: blur(5px); /* Add a blur effect to the overlay */
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.8); /* Set a transparent background color with opacity */
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+  visibility: visible;
+  opacity: 1;
+  backdrop-filter: blur(5px); /* Apply a blur effect to the popup */
+}
+
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}

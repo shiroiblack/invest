@@ -1,0 +1,171 @@
+[28-Jun-2023 16:41:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 16:43:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:33:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:44:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:46:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:48:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:48:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:49:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 20:49:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/proinhar/public_html/investment_cron.php:22
+Stack trace:
+#0 /home/proinhar/public_html/investment_cron.php(22): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/proinhar/public_html/investment_cron.php on line 22
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:04:25 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:36 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:40 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $investmentAmount in /home/proinhar/public_html/investment_cron.php on line 38
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 40
+[28-Jun-2023 22:06:44 UTC] PHP Warning:  Undefined variable $earnings in /home/proinhar/public_html/investment_cron.php on line 43
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:08:56 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:01 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:09:48 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:15 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36
+[28-Jun-2023 23:11:21 UTC] PHP Warning:  Undefined array key "earnings" in /home/proinhar/public_html/investment_cron.php on line 36

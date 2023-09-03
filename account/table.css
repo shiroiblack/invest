@@ -1,0 +1,11 @@
+.trade-ongoing {
+  background-color: yellow;
+}
+
+.trade-loss {
+  background-color: red;
+}
+
+.trade-won {
+  background-color: green;
+}
